@@ -102,6 +102,7 @@ July 2018 - July 2019
   ### INFORMATION TECHNOLOGY SKILLS
   
   [Skills and abilities related to IT]
+   - ...🏗️
   
   ### RETAIL / HOSPITALITY SERVICE SKILLS
   - Proactively uphold high standards of customer service, even during high-volume operations
@@ -127,6 +128,7 @@ July 2018 - July 2019
 ## REFERENCES
 <details>
   <summary> Details           (Click to expand) </summary>
+
 - Thomas Skippington - Supervisor
   - Phone:
   - St Edmund's College IT Department
