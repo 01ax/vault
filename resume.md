@@ -39,7 +39,7 @@ July 2018 - July 2019
 - Actively participated in professional development and staff events
 
 <details>
-  <summary>LEGACY EXPERIENCE</summary>
+  <summary>*LEGACY EXPERIENCE*</summary>
   
   #### Subway - Goodna - Senior Sandwich Artist
   March 2017 - April 2018
@@ -61,10 +61,8 @@ July 2018 - July 2019
   - Provided professional and courteous customer service, assisting customers with rentals and returns
 </details>
 
-## EDUCATION
-
 <details>
-  <summary>Click to toggle header</summary>
+  <summary>## EDUCATION</summary>
   
   ### [Diploma of Information Technology - Advanced Networking and Cloud Engineering](https://tafeqld.edu.au/course/19/19032/diploma-of-information-technology)
   TAFE Greater Brisbane - Southbank Institute
