@@ -65,7 +65,7 @@ TAFE Greater Brisbane - Southbank Institute
 
 - ...🏗️
 
-### Cert III of Information Digital Media and Technology (https://accm.edu.au/course/certificate-iii-in-information-technology-ict30120/)
+### [Cert III of Information Digital Media and Technology](https://accm.edu.au/course/certificate-iii-in-information-technology-ict30120/)
 Australian College of Commerce and Management
 [Traineeship - July 2019]
 
