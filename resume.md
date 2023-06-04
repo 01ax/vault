@@ -39,7 +39,7 @@ July 2018 - July 2019
 - Actively participated in professional development and staff events
 
 <details>
-  <summary> Older (Click to expand) </summary>
+  <summary> Older           (Click to expand) </summary>
   
   #### Subway - Goodna - Senior Sandwich Artist
   March 2017 - April 2018
@@ -64,7 +64,7 @@ July 2018 - July 2019
 ## EDUCATION
 
 <details>
-  <summary> Details (Click to expand) </summary>
+  <summary> Details            (Click to expand)</summary>
   
   ### [Diploma of Information Technology - Advanced Networking and Cloud Engineering](https://tafeqld.edu.au/course/19/19032/diploma-of-information-technology)
   TAFE Greater Brisbane - Southbank Institute
@@ -75,7 +75,8 @@ July 2018 - July 2019
   ### [Cert III of Information Digital Media and Technology](https://accm.edu.au/course/certificate-iii-in-information-technology-ict30120/)
   Australian College of Commerce and Management
   [Traineeship - July 2019]
-  
+  <details> 
+    <summary>Older           (Click to expand)</summary>
   ### Sixth Form - UK Year 12 - 13 equivalent
   Cedars Upper, Bedfordshire England
   [Deferred 2015]
@@ -89,12 +90,13 @@ July 2018 - July 2019
   - Major: Information Technology, Natural Science
   - Minor: Music Technology, Art (Photography and Design)
   - Electives: PE, HE, Sound Engineering
+  </details>
 </details>
 
 ## SKILLS AND ABILITIES
 
 <details>
-  <summary> Details (Click to expand) </summary>
+  <summary> Details           (Click to expand) </summary>
   
   ### INFORMATION TECHNOLOGY SKILLS
   
@@ -123,7 +125,7 @@ July 2018 - July 2019
 
 ## REFERENCES
 <details>
-  <summary> Details (Click to expand) </summary>
+  <summary> Details           (Click to expand) </summary>
 - Thomas Skippington - Supervisor
   - Phone:
   - St Edmund's College IT Department
