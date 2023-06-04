@@ -48,7 +48,7 @@ March 2012 - January 2013
 
 ## EDUCATION
 
-### Diploma of Information Technology - Advanced Networking and Cloud Engineering
+### [Diploma of Information Technology - Advanced Networking and Cloud Engineering](https://tafeqld.edu.au/course/19/19032/diploma-of-information-technology)
 TAFE Greater Brisbane - Southbank Institute
 [July 2022 - July 2023]
 
