@@ -1,6 +1,7 @@
 # BLAKE KIRKHAM
 - Phone: (+61) 0491-374-961
 - Email: b.kirkham98@gmail.com
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ebsoma/)
 
 
