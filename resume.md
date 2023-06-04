@@ -6,7 +6,7 @@
 Hardworking and passionate IT Support Officer Dip. of IT graduate with proven ability to provide Level 1/2 technical support to businesses, both on-site and remotely. Strong understanding of educational IT/AV ITIL procedures and duties. Proficient in translating technical jargon into end-user friendly language, Passionate about mentoring and teaching others, enjoy learning new intuitive and innovative solutions and meeting new people.
 
 ## INTERESTS
-- Clound design and architechture solutions, automated orchestration (Pipelines, Kubernetes, Docker)
+- Clound design and architechture solutions, automated orchestration (CI/CD Pipelines, Kubernetes, Docker)
 - Operational Technology (OT vs IT) and real-time redundancy
 - NLP Assisted code development
   - IDE NLP API Integrations
