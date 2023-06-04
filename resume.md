@@ -39,7 +39,7 @@ July 2018 - July 2019
 - Actively participated in professional development and staff events
 
 <details>
-  <summary>*LEGACY EXPERIENCE*</summary>
+  <summary>LEGACY EXPERIENCE</summary>
   
   #### Subway - Goodna - Senior Sandwich Artist
   March 2017 - April 2018
@@ -61,8 +61,10 @@ July 2018 - July 2019
   - Provided professional and courteous customer service, assisting customers with rentals and returns
 </details>
 
+## EDUCATION
+
 <details>
-  <summary>## EDUCATION</summary>
+  <summary>[Expand]</summary>
   
   ### [Diploma of Information Technology - Advanced Networking and Cloud Engineering](https://tafeqld.edu.au/course/19/19032/diploma-of-information-technology)
   TAFE Greater Brisbane - Southbank Institute
@@ -92,7 +94,7 @@ July 2018 - July 2019
 ## SKILLS AND ABILITIES
 
 <details>
-  <summary>Click to toggle header</summary>
+  <summary[Expand]</summary>
   
   ### INFORMATION TECHNOLOGY SKILLS
   
@@ -120,7 +122,8 @@ July 2018 - July 2019
 </details>
 
 ## REFERENCES
-
+<details>
+  <summary>[Expand]</summary>
 - Thomas Skippington - Supervisor
   - Phone:
   - St Edmund's College IT Department
@@ -148,3 +151,4 @@ July 2018 - July 2019
 - Michelle Deikmann - Store Manager
   - Phone: 07 3818 7111 - Subway
   - 56/2 Smiths Rd, Goodna
+</details>
