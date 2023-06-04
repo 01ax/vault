@@ -1,9 +1,6 @@
-# BLAKE KIRKHAM
+# BLAKE KIRKHAM | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ebsoma/)
 - Phone: (+61) 0491-374-961
 - Email: b.kirkham98@gmail.com
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ebsoma/)
-
 
 ## SUMMARY
 Hardworking and passionate IT Support Officer Dip. of IT graduate. Proven ability to provide Level 1/2 technical support to businesses, both on-site and remotely. Strong understanding of educational IT/AV ITIL procedures and duties. Proficient in translating technical jargon into end-user friendly language, Passionate about mentoring and teaching others, enjoy learning new intuitive and innovative solutions and meeting new people. 
