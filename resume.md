@@ -5,46 +5,57 @@
 ## SUMMARY
 Passionate, hardworking IT Support Officer upholding above-and-beyond customer service, providing Level 1/2 technical support for businesses providing on-site and remote support whilst liaising with respective team members, vendors & clients. Sound understanding and performance of educational IT/AV ITIL procedures and duties with fine attention to detail. Proficient in technical/user linguistics and enjoy learning new things and meeting new people.
 
+## INTERESTS
+- Clound design and architechture solutions, automated orchestration (Pipelines, Kubernetes, Docker)
+- Operational Technology (OT vs IT) and real-time redundancy
+- NLP Assisted code development
+  - IDE NLP API Integrations
+    - AWS Comprehend
+	- Google Natural Language
+  - Templating
+  - ...🏗️
+- ...🏗️
+
 ## EXPERIENCE
 
 ### IT Support Officer - St Edmunds College
 November 2019 - July 2022
 - Level 1-2 IT Helpdesk Support
-[EDITING]
+- ...🏗️
   
 ### IT Support Officer Trainee - St Laurence's College
 July 2018 - July 2019
-- Level 1-2 FPOC Helpdesk support for staff, students and visitors at the college including remote technical assistance for parents and guardians
-- Providing dynamic classroom technical support including exam deployment assistance
-- Strategising technical implementations with IT Team members
-- Proficient in logging incidents and liaising insurance claim brokerages on behalf of the client
-- Familiar with Dell logging procedures and managing Dell Service Requests and logistics
-- Familiar with in-house servicing of Dell Latitude laptops
-- Providing assistance with Audio Visual equipment and Stage AV Setups
-- Experience using MDM Systems for iOS enrollments and creating deployment packages
-- Experience diagnosing, troubleshooting, and servicing kiosk machines
-- Maintaining a clean and tidy workspace environment
-- Assisting inbound and outbound bulk IT Shipments
-- Participation in professional development and staff events
+- Provided Level 1-2 FPOC Helpdesk support for staff, students, and visitors at the college, including remote technical assistance for parents and guardians
+- Delivered dynamic classroom technical support, including exam deployment assistance
+- Collaborated with IT Team members to strategize technical implementations
+- Proficiently logged incidents and liaised with insurance claim brokerages on behalf of the client
+- Demonstrated familiarity with Dell logging procedures, managing Dell Service Requests, and handling logistics
+- Conducted in-house servicing of Dell Latitude laptops
+- Offered assistance with Audio Visual equipment and Stage AV Setups
+- Utilized MDM Systems for iOS enrollments and created deployment packages
+- Diagnosed, troubleshooted, and serviced kiosk machines
+- Maintained a clean and tidy workspace environment
+- Assisted with inbound and outbound bulk IT shipments
+- Actively participated in professional development and staff events
 
 ### Subway - Goodna - Senior Sandwich Artist
 March 2017 - April 2018
-- Aesthetic presentation of storefront and back
-- Occasional supervision of junior staff members
-- Clean and formulae followed presentation of food
-- Cleaning and prepping a wide variety of ingredients
-- Quality control such as temperature logging, inspecting equipment before use and proper distillation and cleaning techniques
-- Catering for online/telephone/fax orders
-- High volume, high-intensity workload at an almost consistent pace
-- Upselling and informing customers with in-store deals and keeping them up to date with the latest flavors
-- Cleaning checklists and scheduled tasks
+- Ensured aesthetic presentation of storefront and back areas
+- Occasionally supervised junior staff members
+- Maintained clean and hygienic food presentation following established formulas
+- Prepared and organized a wide variety of ingredients
+- Conducted quality control measures, including temperature logging, equipment inspection, and proper cleaning techniques
+- Handled online, telephone, and fax orders
+- Managed high-volume, high-intensity workload at a consistent pace
+- Implemented upselling strategies and kept customers informed about in-store deals and the latest flavors
+- Followed cleaning checklists and completed scheduled tasks
 
 ### Network Video - Store Assistant
 March 2012 - January 2013
-- Management of front desk, including greeting visitors and responding to telephone enquiries
-- Making sure that the store was presented neatly and regularly restocked
-- Completing weekly and monthly inventory checking and database checking
-- Experience and training in providing professional, courteous customer service and assisting customers with rentals and returns
+- Managed front desk operations, including greeting visitors and handling telephone inquiries
+- Ensured the store was presented neatly and restocked regularly
+- Completed weekly and monthly inventory checks and database maintenance
+- Provided professional and courteous customer service, assisting customers with rentals and returns
 
 ## EDUCATION
 
@@ -52,7 +63,9 @@ March 2012 - January 2013
 TAFE Greater Brisbane - Southbank Institute
 [July 2022 - July 2023]
 
-### Cert III of Information Digital Media and Technology
+- ...🏗️
+
+### Cert III of Information Digital Media and Technology (https://accm.edu.au/course/certificate-iii-in-information-technology-ict30120/)
 Australian College of Commerce and Management
 [Traineeship - July 2019]
 
@@ -76,21 +89,37 @@ Woodcrest State College, Springfield Lakes QLD
 
 [Skills and abilities related to IT]
 
-### RETAIL / HOSPITALITY SERVICE SKILLS
-- Actively maintain high standards of customer service during high-volume operations
-- Operate point-of-service (POS) systems effectively
-- Handle cash flow quickly and accurately including safe drop procedures
-- Follow procedures for safe food processing, packing, quality control, and timestamping
-- Assist with inventory control and stock management, building loyal customer relationships through friendly interactions and consistent appreciation
+### RETAIL / HOSPITALITY SERVICE SKILLS - SUBWAY
+- Proactively uphold high standards of customer service, even during high-volume operations
+- Effectively operate point-of-service (POS) systems
+- Efficiently handle cash flow, including safe drop procedures, with accuracy
+- Adhere to procedures for safe food processing, packing, quality control, and timestamping
+- Assist with inventory control and stock management, while fostering loyal customer relationships through friendly interactions and consistent appreciation
 
-### SOUND DESIGN SKILLS
-- Abnormal amount of patience
-- Focus and determination
-- Coherent understanding of cymatics, polarity, tonetic resonance, etc.
-- Minute attention to detail
-- Strict objective self-assessing
+### SOUND DESIGN SKILLS - CEDARS UPPER COLLEGE, HOBBY
+- Exceptional level of patience
+- Strong focus and determination
+- Comprehensive understanding of cymatics, polarity, harmonic resonance, and related concepts
+- Deep understanding on utisiling indsutry standard Digital Audio Workstations (DAWs) including exposure and hobbying with:
+  - Pro Logic
+  - Logic Pro x
+  - FL Stuio
+  - Audacity
+  - Ableton
+- Keen attention to minute details
+- Objective and critical self-assessment
 
 ## REFERENCES
+
+- Thomas Skippington - Supervisor
+  - Phone:
+  - St Edmund's College IT Department
+  - 16 Mary St, Woodend - Ipswich
+
+- Darren D'Souza - Director of IT
+  - Phone:  07 3810 4400
+  - St Edmund's College IT Department
+  - 16 Mary St, Woodend - Ipswich
 
 - Mark Whiting - Supervisor
   - Phone: 07 3010 1123
@@ -109,11 +138,3 @@ Woodcrest State College, Springfield Lakes QLD
 - Michelle Deikmann - Store Manager
   - Phone: 07 3818 7111 - Subway
   - 56/2 Smiths Rd, Goodna
-
-- Tammy Antony - Previous Manager
-  - Phone: 0448 844 964 - Builders Cleaners
-  - Contractor
-
-- Jo Leftwich - Previous Manager
-  - Phone: 0403 890 202 - Network Video
-  - 20/183 Kruger Parade, Redbank Plains
