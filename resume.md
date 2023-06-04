@@ -89,18 +89,18 @@ Woodcrest State College, Springfield Lakes QLD
 
 [Skills and abilities related to IT]
 
-### RETAIL / HOSPITALITY SERVICE SKILLS - SUBWAY
+### RETAIL / HOSPITALITY SERVICE SKILLS
 - Proactively uphold high standards of customer service, even during high-volume operations
 - Effectively operate point-of-service (POS) systems
 - Efficiently handle cash flow, including safe drop procedures, with accuracy
 - Adhere to procedures for safe food processing, packing, quality control, and timestamping
 - Assist with inventory control and stock management, while fostering loyal customer relationships through friendly interactions and consistent appreciation
 
-### SOUND DESIGN SKILLS - CEDARS UPPER COLLEGE, HOBBY
+### SOUND DESIGN SKILLS
 - Exceptional level of patience
 - Strong focus and determination
 - Comprehensive understanding of cymatics, polarity, harmonic resonance, and related concepts
-- Deep understanding on utisiling indsutry standard Digital Audio Workstations (DAWs) including exposure and hobbying with:
+- Deep understanding on utisiling industry standard Digital Audio Workstations (DAWs) including exposure and hobbying with:
   - Pro Logic
   - Logic Pro x
   - FL Stuio
