@@ -39,7 +39,7 @@ July 2018 - July 2019
 - Actively participated in professional development and staff events
 
 <details>
-  <summary> More </summary>
+  <summary> See more </summary>
   
   #### Subway - Goodna - Senior Sandwich Artist
   March 2017 - April 2018
@@ -76,7 +76,7 @@ July 2018 - July 2019
   Australian College of Commerce and Management
   [Traineeship - July 2019]
   <details> 
-    <summary> More </summary>
+    <summary> See more </summary>
 
   ### Sixth Form - UK Year 12 - 13 equivalent
   Cedars Upper, Bedfordshire England
