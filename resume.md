@@ -3,7 +3,7 @@
 - Email: b.kirkham98@gmail.com
 
 ## SUMMARY
-Passionate, hardworking IT Support Officer upholding above-and-beyond customer service, providing Level 1/2 technical support for businesses providing on-site and remote support whilst liaising with respective team members, vendors & clients. Sound understanding and performance of educational IT/AV ITIL procedures and duties with fine attention to detail. Proficient in technical/user linguistics and enjoy learning new things and meeting new people.
+Hardworking and passionate IT Support Officer Dip. of IT graduate. Proven ability to provide Level 1/2 technical support to businesses, both on-site and remotely. Strong understanding of educational IT/AV ITIL procedures and duties. Proficient in translating technical jargon into end-user friendly language, Passionate about mentoring and teaching others, enjoy learning new intuitive and innovative solutions and meeting new people. <small>All inclusive professional development trip to CES? Yes please!</small>
 
 ## INTERESTS
 - Clound design and architechture solutions, automated orchestration (Pipelines, Kubernetes, Docker)
