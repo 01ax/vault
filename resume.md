@@ -71,6 +71,7 @@ July 2018 - July 2019
   [July 2022 - July 2023]
   
   - ...🏗️
+Esxi, Cisco Switching and Routing, Dell iDRAC, 3cx VoIP, Routing technologies (RIP, RIPv2, NAT, OSPF, Static ect), QoS, Virtual networking and computing, VPN Technologies (Zero-Trust SSL OpenVPN [Cloudflare], GRE Tunnels) IPSec, SecurityOnions, Network Monitoring, Metric functions and rules (alarms, FSRM) IaC template design, troubleshooting and deployment with AWS CloudFormation (YAML, JSON), Solutions design, VLSM Subnetting, VLANs, Furthered Windows Server expertise (DNS, ADDS, WDS, ADSS, DHCP, IIS, NTP, NFS, RDS, SQL, Sharepoint...), 
   
   ### [Cert III of Information Digital Media and Technology](https://accm.edu.au/course/certificate-iii-in-information-technology-ict30120/)
   Australian College of Commerce and Management
