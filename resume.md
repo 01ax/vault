@@ -26,12 +26,13 @@ November 2019 - July 2022
 - Provided level 1-2 IT Helpdesk Support and assistance of systems/network administrative tasks
 - Collaborated alongside senior IT Staff and the Director of IT in standard operations analysis, systems development, hardware procurement/lifecycles and other technical projects
 - Provided technical assistance with onboarding of new staff ( Account development orchestration (AD, o365, Skype for Business, TeamGO, TASSWEB, Webbook, Schoolbox, ect. ), ID Cards and Access Control (Tecom TITAN), designating assets etc.
+-  Performed network diagnostics, reporting and troubleshooting including identifying points of failure, performing basic network restoration procedures, identifying interface misconfigurations and various other technical tasks whilst collaborating with the Systems Administrator
 - Provided 1:1 technical assistance for staff and students where required, guiding how to utilise our systems and software we provide effectively and ensuring they know how to use these systems
-- Fostered a holistic environment, ensuring that staff, students and visitors feel invited when requiring the assistance of the IT Department.
 - Essential worker during the pandemic, providing hybrid on-site and remote support for staff and students during term time including remote desktop support assistance for staff, phone assistance for parents and students having trouble accessing our resources etc.
-- Performed network diagnosis, reporting and troubleshooting including identifying points of failure, performing network restoration procedures, identifying interface misconfigurations and various other technical tasks whilst collaborating with the Systems Administrator
-- Assisted with software lifecycle procurement and application administration including creating, updating, retiring, testing and deploying packages
+-Fostered a holistic environment, ensuring that staff, students and visitors feel invited when requiring the assistance of the IT Department
+- Assisted with software lifecycle procurement and application administration including creating, updating, retiring, testing and deploying packages (SCCM) 
 - Developing and updating of user documentation and technical guides
+- Covered IT Admin specific duties such as FPOC, Asset management (Inventory, hardware leasing and tagging, updating and creation of spreadsheets ect)
 - Exchange and O365 administration (SMTP/Remote Routing, Exchange GUID fetching, Mailbox permissions etc.)
 - Security / Compliance audits for access control (o365 permissions, OneDrive history, etc.)
 - ...🏗️
