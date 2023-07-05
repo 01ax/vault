@@ -29,7 +29,7 @@ November 2019 - July 2022
 -  Performed network diagnostics, reporting and troubleshooting including identifying points of failure, performing basic network restoration procedures, identifying interface misconfigurations and various other technical tasks whilst collaborating with the Systems Administrator
 - Provided 1:1 technical assistance for staff and students where required, guiding how to utilise our systems and software we provide effectively and ensuring they know how to use these systems
 - Essential worker during the pandemic, providing hybrid on-site and remote support for staff and students during term time including remote desktop support assistance for staff, phone assistance for parents and students having trouble accessing our resources etc.
--Fostered a holistic environment, ensuring that staff, students and visitors feel invited when requiring the assistance of the IT Department
+- Fostered a holistic environment, ensuring that staff, students and visitors feel invited when requiring the assistance of the IT Department
 - Assisted with software lifecycle procurement and application administration including creating, updating, retiring, testing and deploying packages (SCCM) 
 - Developing and updating of user documentation and technical guides
 - Covered IT Admin specific duties such as FPOC, Asset management (Inventory, hardware leasing and tagging, updating and creation of spreadsheets ect)
