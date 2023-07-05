@@ -1,6 +1,4 @@
 # BLAKE KIRKHAM | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ebsoma/)
-- Phone: (+61) 0491-374-961
-- Email: b.kirkham98@gmail.com
 
 ## SUMMARY
 Hardworking and passionate IT Support Officer Dip. of IT graduate with proven ability to provide Level 1/2 technical support to businesses, both on-site and remotely. Strong understanding of educational IT/AV ITIL procedures and duties. Proficient in translating technical jargon into end-user friendly language, Passionate about learning new intuitive and innovative solutions, meeting new people and assisting others to reach success. 
@@ -141,30 +139,30 @@ Esxi, Cisco Switching and Routing, Dell iDRAC, 3cx VoIP, Routing technologies (R
   <summary> Details           (Click to expand) </summary>
 
 - Thomas Skippington - Supervisor
-  - Phone:
+  - Phone: ■■■■■■■■■■■■■■■■■■■
   - St Edmund's College IT Department
   - 16 Mary St, Woodend - Ipswich
 
 - Darren D'Souza - Director of IT
-  - Phone: 07 3810 4400
+  - Phone: ■■■■■■■■■■■■■■■■■■■
   - St Edmund's College IT Department
   - 16 Mary St, Woodend - Ipswich
 
 - Mark Whiting - Supervisor
-  - Phone: 07 3010 1123
+  - Phone: ■■■■■■■■■■■■■■■■■■■
   - St Laurences College IT Department
   - 82 Stephens Rd, South Brisbane
 
 - Nick Lieschke - Director of IT
-  - Phone: 07 3010 1123
+  - Phone: ■■■■■■■■■■■■■■■■■■■
   - St Laurences College IT Department
   - 82 Stephens Rd, South Brisbane
 
 - Kirsty Mulley - Assistant Manager
-  - Phone: 07 3818 7111 - Subway
+  - Phone: ■■■■■■■■■■■■■■■■■■■ - Subway
   - 56/2 Smiths Rd, Goodna
 
 - Michelle Deikmann - Store Manager
-  - Phone: 07 3818 7111 - Subway
+  - Phone: ■■■■■■■■■■■■■■■■■■■ - Subway
   - 56/2 Smiths Rd, Goodna
 </details>
