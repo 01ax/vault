@@ -139,30 +139,30 @@ Esxi, Cisco Switching and Routing, Dell iDRAC, 3cx VoIP, Routing technologies (R
   <summary> Details           (Click to expand) </summary>
 
 - Thomas Skippington - Supervisor
-  - Phone: ■■■■■■■■■■■■■■■■■■■
+  - Phone: ████████████████████
   - St Edmund's College IT Department
   - 16 Mary St, Woodend - Ipswich
 
 - Darren D'Souza - Director of IT
-  - Phone: ■■■■■■■■■■■■■■■■■■■
+  - Phone: ████████████████████
   - St Edmund's College IT Department
   - 16 Mary St, Woodend - Ipswich
 
 - Mark Whiting - Supervisor
-  - Phone: ■■■■■■■■■■■■■■■■■■■
+  - Phone: ████████████████████
   - St Laurences College IT Department
   - 82 Stephens Rd, South Brisbane
 
 - Nick Lieschke - Director of IT
-  - Phone: ■■■■■■■■■■■■■■■■■■■
+  - Phone: ████████████████████
   - St Laurences College IT Department
   - 82 Stephens Rd, South Brisbane
 
 - Kirsty Mulley - Assistant Manager
-  - Phone: ■■■■■■■■■■■■■■■■■■■ - Subway
+  - Phone: ████████████████████ - Subway
   - 56/2 Smiths Rd, Goodna
 
 - Michelle Deikmann - Store Manager
-  - Phone: ■■■■■■■■■■■■■■■■■■■ - Subway
+  - Phone: ████████████████████ - Subway
   - 56/2 Smiths Rd, Goodna
 </details>
