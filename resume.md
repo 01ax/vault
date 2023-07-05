@@ -80,14 +80,14 @@ July 2018 - July 2019
 <details>
   <summary> Details            (Click to expand)</summary>
   
-  ### [Diploma of Information Technology - Advanced Networking and Cloud Engineering](https://tafeqld.edu.au/course/19/19032/diploma-of-information-technology)
+  ### [🔗 Diploma of Information Technology - Advanced Networking and Cloud Engineering](https://tafeqld.edu.au/course/19/19032/diploma-of-information-technology)
   TAFE Greater Brisbane - Southbank Institute
   [July 2022 - July 2023]
   
   - ...🏗️
 Esxi, Cisco Switching and Routing, Dell iDRAC, 3cx VoIP, Routing technologies (RIP, RIPv2, NAT, OSPF, Static ect), QoS, Virtual networking and computing, VPN Technologies (Zero-Trust SSL OpenVPN [Cloudflare] Tunnels, GRE Tunnels) IPSec, WAN/WLAN Troubleshooting, SecurityOnions, Network Monitoring, Metric functions and rules (alarms, FSRM) IaC template design, troubleshooting and deployment with AWS CloudFormation (YAML, JSON), Solutions design, VLSM Subnetting, VLANs, Furthered Windows Server expertise (DNS, ADDS, WDS, ADSS, ADK, DHCP, IIS, NTP, NFS, RDS, SQL, Sharepoint...), Ubuntu, RedHat, Fedora, Headless CLI, Hypervisors, Network Design, Team Leading and Management, Project Management, IP Ethics Copyright, Cyber Security awareness/best practice...
   
-  ### [Cert III of Information Digital Media and Technology](https://accm.edu.au/course/certificate-iii-in-information-technology-ict30120/)
+  ### [🔗 Cert III of Information Digital Media and Technology](https://accm.edu.au/course/certificate-iii-in-information-technology-ict30120/)
   Australian College of Commerce and Management
   [Traineeship - July 2019]
   <details> 
