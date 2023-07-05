@@ -3,7 +3,7 @@
 - Email: b.kirkham98@gmail.com
 
 ## SUMMARY
-Hardworking and passionate IT Support Officer Dip. of IT graduate with proven ability to provide Level 1/2 technical support to businesses, both on-site and remotely. Strong understanding of educational IT/AV ITIL procedures and duties. Proficient in translating technical jargon into end-user friendly language, Passionate about mentoring and teaching others, enjoy learning new intuitive and innovative solutions and meeting new people.
+Hardworking and passionate IT Support Officer Dip. of IT graduate with proven ability to provide Level 1/2 technical support to businesses, both on-site and remotely. Strong understanding of educational IT/AV ITIL procedures and duties. Proficient in translating technical jargon into end-user friendly language, Passionate about learning new intuitive and innovative solutions, meeting new people and assisting others to reach success. 
 
 ## INTERESTS
 - Clound design and architechture solutions, automated orchestration (CI/CD Pipelines, Kubernetes, Docker, Docker Compose)
@@ -20,12 +20,22 @@ Hardworking and passionate IT Support Officer Dip. of IT graduate with proven ab
 
 ### IT Support Officer - St Edmunds College
 November 2019 - July 2022
-- Level 1-2 IT Helpdesk Support
+- Provided level 1-2 IT Helpdesk Support and assistance of systems / network administrative tasks
+- Collaborated alongisde senior IT Staff and the Director of IT in standard operations analysis, systems development, hardware procurement / lifecycles and other technical projects
+- Provided technical assistance with onboarding of new staff ( Account development orchestration (AD, o365, Skype for Business, TeamGO, TASSWEB, Webbook, Schoolbox, ect. ), ID Cards and Access Control (Tecom TITAN), designating assets ect.
+- Provided 1:1 technical assistance for staff and students where required, guiding how to utilise our systems and software we provide effectively and ensuring they know how to use these systems
+- Fostered a holistic environment, ensuring that staff, students and visitors feel invited when requiring the assistance of the IT Department.
+- Essential worker during the pandemic, providing hybrid on-site and remote support for staff and students during term-time including remote desktop support assistance for staff, phone assistance for parents and students having troulbes accessing our resources ect.
+- Performed network diagnosis, reporting and troubleshooting including identifying point of failures, performing network restoration procedures, identifying interface misconfigurations and various other technical tasks whilst collaborating with the Systems Administrator
+- Assisted with software lifecycle procurement and application administation including creating, updating, retiring, testing and deploying packages
+- Developing and updating of user doccumentation and technical guides
+- Exchange and O365 adminisation (SMTP/Remote Routing, Exchange GUID fetching, Mailbox permissions ect.)
+- Security / Compliance audits for access control (o365 permissions, OneDrive history, ect.)
 - ...🏗️
 
 ### IT Support Officer Trainee - St Laurence's College
 July 2018 - July 2019
-- Provided Level 1-2 FPOC Helpdesk support for staff, students, and visitors at the college, including remote technical assistance for parents and guardians
+- Provided level 1-2 FPOC Helpdesk support for staff, students, and visitors at the college, including remote technical assistance for parents and guardians
 - Delivered dynamic classroom technical support, including exam deployment assistance
 - Collaborated with IT Team members to strategize technical implementations
 - Proficiently logged incidents and liaised with insurance claim brokerages on behalf of the client
@@ -71,7 +81,7 @@ July 2018 - July 2019
   [July 2022 - July 2023]
   
   - ...🏗️
-Esxi, Cisco Switching and Routing, Dell iDRAC, 3cx VoIP, Routing technologies (RIP, RIPv2, NAT, OSPF, Static ect), QoS, Virtual networking and computing, VPN Technologies (Zero-Trust SSL OpenVPN [Cloudflare] Tunnels, GRE Tunnels) IPSec, SecurityOnions, Network Monitoring, Metric functions and rules (alarms, FSRM) IaC template design, troubleshooting and deployment with AWS CloudFormation (YAML, JSON), Solutions design, VLSM Subnetting, VLANs, Furthered Windows Server expertise (DNS, ADDS, WDS, ADSS, ADK, DHCP, IIS, NTP, NFS, RDS, SQL, Sharepoint...), 
+Esxi, Cisco Switching and Routing, Dell iDRAC, 3cx VoIP, Routing technologies (RIP, RIPv2, NAT, OSPF, Static ect), QoS, Virtual networking and computing, VPN Technologies (Zero-Trust SSL OpenVPN [Cloudflare] Tunnels, GRE Tunnels) IPSec, WAN/WLAN Troulbeshooting, SecurityOnions, Network Monitoring, Metric functions and rules (alarms, FSRM) IaC template design, troubleshooting and deployment with AWS CloudFormation (YAML, JSON), Solutions design, VLSM Subnetting, VLANs, Furthered Windows Server expertise (DNS, ADDS, WDS, ADSS, ADK, DHCP, IIS, NTP, NFS, RDS, SQL, Sharepoint...), Ubuntu, RedHat, Fedora, Headless CLI, Hypervisors, Network Design, Team Leading and Management, Project Management, IP Ethics Copyright, Cyber Security awareness/best practice...
   
   ### [Cert III of Information Digital Media and Technology](https://accm.edu.au/course/certificate-iii-in-information-technology-ict30120/)
   Australian College of Commerce and Management
