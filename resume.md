@@ -6,7 +6,7 @@
 Hardworking and passionate IT Support Officer Dip. of IT graduate with proven ability to provide Level 1/2 technical support to businesses, both on-site and remotely. Strong understanding of educational IT/AV ITIL procedures and duties. Proficient in translating technical jargon into end-user friendly language, Passionate about learning new intuitive and innovative solutions, meeting new people and assisting others to reach success. 
 
 ## INTERESTS
-- Clound design and architechture solutions, automated orchestration (CI/CD Pipelines, Kubernetes, Docker, Docker Compose)
+- Cloud design and architecture solutions, automated orchestration (CI/CD Pipelines, Kubernetes, Docker, Docker Compose)
 - Operational Technology (OT vs IT) and real-time redundancy
 - NLP Assisted code development
   - IDE NLP API Integrations
@@ -20,17 +20,17 @@ Hardworking and passionate IT Support Officer Dip. of IT graduate with proven ab
 
 ### IT Support Officer - St Edmunds College
 November 2019 - July 2022
-- Provided level 1-2 IT Helpdesk Support and assistance of systems / network administrative tasks
-- Collaborated alongisde senior IT Staff and the Director of IT in standard operations analysis, systems development, hardware procurement / lifecycles and other technical projects
-- Provided technical assistance with onboarding of new staff ( Account development orchestration (AD, o365, Skype for Business, TeamGO, TASSWEB, Webbook, Schoolbox, ect. ), ID Cards and Access Control (Tecom TITAN), designating assets ect.
+- Provided level 1-2 IT Helpdesk Support and assistance of systems/network administrative tasks
+- Collaborated alongside senior IT Staff and the Director of IT in standard operations analysis, systems development, hardware procurement/lifecycles and other technical projects
+- Provided technical assistance with onboarding of new staff ( Account development orchestration (AD, o365, Skype for Business, TeamGO, TASSWEB, Webbook, Schoolbox, ect. ), ID Cards and Access Control (Tecom TITAN), designating assets etc.
 - Provided 1:1 technical assistance for staff and students where required, guiding how to utilise our systems and software we provide effectively and ensuring they know how to use these systems
 - Fostered a holistic environment, ensuring that staff, students and visitors feel invited when requiring the assistance of the IT Department.
-- Essential worker during the pandemic, providing hybrid on-site and remote support for staff and students during term-time including remote desktop support assistance for staff, phone assistance for parents and students having troulbes accessing our resources ect.
-- Performed network diagnosis, reporting and troubleshooting including identifying point of failures, performing network restoration procedures, identifying interface misconfigurations and various other technical tasks whilst collaborating with the Systems Administrator
-- Assisted with software lifecycle procurement and application administation including creating, updating, retiring, testing and deploying packages
-- Developing and updating of user doccumentation and technical guides
-- Exchange and O365 adminisation (SMTP/Remote Routing, Exchange GUID fetching, Mailbox permissions ect.)
-- Security / Compliance audits for access control (o365 permissions, OneDrive history, ect.)
+- Essential worker during the pandemic, providing hybrid on-site and remote support for staff and students during term time including remote desktop support assistance for staff, phone assistance for parents and students having trouble accessing our resources etc.
+- Performed network diagnosis, reporting and troubleshooting including identifying points of failure, performing network restoration procedures, identifying interface misconfigurations and various other technical tasks whilst collaborating with the Systems Administrator
+- Assisted with software lifecycle procurement and application administration including creating, updating, retiring, testing and deploying packages
+- Developing and updating of user documentation and technical guides
+- Exchange and O365 administration (SMTP/Remote Routing, Exchange GUID fetching, Mailbox permissions etc.)
+- Security / Compliance audits for access control (o365 permissions, OneDrive history, etc.)
 - ...🏗️
 
 ### IT Support Officer Trainee - St Laurence's College
@@ -43,7 +43,7 @@ July 2018 - July 2019
 - Conducted in-house servicing of Dell Latitude laptops
 - Offered assistance with Audio Visual equipment and Stage AV Setups
 - Utilized MDM Systems for iOS enrollments and created deployment packages
-- Diagnosed, troubleshooted, and serviced kiosk machines
+- Diagnosed, troubleshot, and serviced kiosk machines
 - Maintained a clean and tidy workspace environment
 - Assisted with inbound and outbound bulk IT shipments
 - Actively participated in professional development and staff events
@@ -60,7 +60,7 @@ July 2018 - July 2019
   - Conducted quality control measures, including temperature logging, equipment inspection, and proper cleaning techniques
   - Handled online, telephone, and fax orders
   - Managed high-volume, high-intensity workload at a consistent pace
-  - Implemented upselling strategies and kept customers informed about in-store deals and the latest flavors
+  - Implemented upselling strategies and kept customers informed about in-store deals and the latest flavours
   - Followed cleaning checklists and completed scheduled tasks
 
   #### Network Video - Store Assistant
@@ -81,7 +81,7 @@ July 2018 - July 2019
   [July 2022 - July 2023]
   
   - ...🏗️
-Esxi, Cisco Switching and Routing, Dell iDRAC, 3cx VoIP, Routing technologies (RIP, RIPv2, NAT, OSPF, Static ect), QoS, Virtual networking and computing, VPN Technologies (Zero-Trust SSL OpenVPN [Cloudflare] Tunnels, GRE Tunnels) IPSec, WAN/WLAN Troulbeshooting, SecurityOnions, Network Monitoring, Metric functions and rules (alarms, FSRM) IaC template design, troubleshooting and deployment with AWS CloudFormation (YAML, JSON), Solutions design, VLSM Subnetting, VLANs, Furthered Windows Server expertise (DNS, ADDS, WDS, ADSS, ADK, DHCP, IIS, NTP, NFS, RDS, SQL, Sharepoint...), Ubuntu, RedHat, Fedora, Headless CLI, Hypervisors, Network Design, Team Leading and Management, Project Management, IP Ethics Copyright, Cyber Security awareness/best practice...
+Esxi, Cisco Switching and Routing, Dell iDRAC, 3cx VoIP, Routing technologies (RIP, RIPv2, NAT, OSPF, Static ect), QoS, Virtual networking and computing, VPN Technologies (Zero-Trust SSL OpenVPN [Cloudflare] Tunnels, GRE Tunnels) IPSec, WAN/WLAN Troubleshooting, SecurityOnions, Network Monitoring, Metric functions and rules (alarms, FSRM) IaC template design, troubleshooting and deployment with AWS CloudFormation (YAML, JSON), Solutions design, VLSM Subnetting, VLANs, Furthered Windows Server expertise (DNS, ADDS, WDS, ADSS, ADK, DHCP, IIS, NTP, NFS, RDS, SQL, Sharepoint...), Ubuntu, RedHat, Fedora, Headless CLI, Hypervisors, Network Design, Team Leading and Management, Project Management, IP Ethics Copyright, Cyber Security awareness/best practice...
   
   ### [Cert III of Information Digital Media and Technology](https://accm.edu.au/course/certificate-iii-in-information-technology-ict30120/)
   Australian College of Commerce and Management
