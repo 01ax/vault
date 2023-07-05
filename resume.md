@@ -1,8 +1,10 @@
 # BLAKE KIRKHAM | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ebsoma/)
 Phone: ████████████████████
+
 Email: ████████████████████
 
 (Please contact me on LinkedIn using the above button for contact information or more information)
+
 ## SUMMARY
 Hardworking and passionate IT Support Officer Dip. of IT graduate with proven ability to provide Level 1/2 technical support to businesses, both on-site and remotely. Strong understanding of educational IT/AV ITIL procedures and duties. Proficient in translating technical jargon into end-user friendly language, Passionate about learning new intuitive and innovative solutions, meeting new people and assisting others to reach success. 
 
